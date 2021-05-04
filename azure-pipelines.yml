@@ -11,7 +11,7 @@ variables:
 steps:
 - task: UseDotNet@2
   inputs:
-    packageType: 'sdk'
+    packageType: 'runtime'
     version: '5.x'
 
 - task: DotNetCoreCLI@2

@@ -1,0 +1,15 @@
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.g.cs
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\App.g.cs
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.cache
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan_MarkupCompile.lref
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\MainWindow.baml
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.g.resources
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Dai Hoc\Thach1\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

@@ -9,6 +9,7 @@ variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
+  dotnetSdkVersion: '3.1.201'
 
 steps:
 - task: NuGetToolInstaller@1
@@ -22,7 +23,11 @@ steps:
     solution: '$(solution)'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
-
+- task: UseDotNet@2
+  displayName: 'Use .NET Core SDK $(dotnetSdkVersion)'
+  inputs:
+    packageType: sdk
+    version: $(dotnetSdkVersion)
 - task: VSTest@2
   inputs:
     platform: '$(buildPlatform)'

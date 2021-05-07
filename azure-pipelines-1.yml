@@ -37,9 +37,3 @@ steps:
     targetPath: '$(Pipeline.Workspace)'
     artifact: 'QLKS'
     publishLocation: 'pipeline'
-jobs:
-- deployment: VMDeploy
-  displayName: Deploy to VM
-  environment: 
-   name: VM
-   resourceType: VirtualMachine
